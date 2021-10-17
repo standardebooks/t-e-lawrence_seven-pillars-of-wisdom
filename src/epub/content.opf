@@ -38,8 +38,8 @@
 		<meta property="term" refines="#subject-2">sh85148236</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Memoir</meta>
-		<meta property="se:subject">Non-fiction</meta>
-		<dc:description id="description">T.E. Lawrence's memoir of his leading the Arab revolt against the Ottoman empire during World War I.</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<dc:description id="description">T.E. Lawrence’s memoir of his leading the Arab revolt against the Ottoman empire during World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
