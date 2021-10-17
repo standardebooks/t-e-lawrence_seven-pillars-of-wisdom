@@ -6,6 +6,11 @@ footer{
 	text-align: right;
 }
 
+#epilogue,
+#preface{
+	margin-top: 20vh;
+}
+
 /* All dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
@@ -42,14 +47,14 @@ figure img{
 	max-width: 100%;
 }
 
-figure + p{
-	text-indent: 0;
-}
-
 figcaption{
 	font-size: .75em;
 	font-style: italic;
 	margin: 1em;
+}
+
+figcaption p + p{
+	text-indent: 0;
 }
 
 /* full page */
@@ -58,24 +63,25 @@ figure.full-page{
 	break-before: page;
 	break-inside: avoid;
 	margin: 0;
-	max-height: 100%;
+	max-height: 100vh;
 	text-align: center;
 }
 
-@supports(display: flex) and (max-height: 100vh){
+@supports(display: flex){
 	figure.full-page{
 		display: flex;
 		flex-direction: column;
-		max-height: 100vh;
 	}
 
 	figure.full-page img{
-		height: 100%;
+		height: 100vh;
+		object-fit: contain;
 	}
 }
 
 /* aligned with text */
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
 }
@@ -88,7 +94,6 @@ figure{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:song"] p + p,
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
