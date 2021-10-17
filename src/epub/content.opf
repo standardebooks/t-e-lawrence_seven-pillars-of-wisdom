@@ -30,6 +30,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Seven Pillars of Wisdom</dc:title>
 		<meta property="file-as" refines="#title">Seven Pillars of Wisdom</meta>
+		<meta property="se:alternate-title" refines="#title">7 Pillars of Wisdom</meta>
 		<dc:subject id="subject-1">Arab countries--History--Arab Revolt, 1916-1918</dc:subject>
 		<dc:subject id="subject-2">World War, 1914-1918</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -216,7 +217,9 @@
 		<item href="text/chapter-122.xhtml" id="chapter-122.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
@@ -229,6 +232,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
@@ -336,7 +340,7 @@
 		<itemref idref="chapter-96.xhtml"/>
 		<itemref idref="chapter-97.xhtml"/>
 		<itemref idref="book-9.xhtml"/>
- 		<itemref idref="chapter-98.xhtml"/>
+		<itemref idref="chapter-98.xhtml"/>
 		<itemref idref="chapter-99.xhtml"/>
 		<itemref idref="chapter-100.xhtml"/>
 		<itemref idref="chapter-101.xhtml"/>
@@ -363,6 +367,7 @@
 		<itemref idref="chapter-121.xhtml"/>
 		<itemref idref="chapter-122.xhtml"/>
 		<itemref idref="epilogue.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
