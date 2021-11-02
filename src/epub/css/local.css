@@ -1,14 +1,66 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* location-specific */
+section[epub|type~="part"] > hgroup + p:first-of-type{
+	margin-bottom: 1em;
+	text-align: center;
+	text-indent: 0;
+}
+
+#preface,
+#epilogue,
+#appendix-1,
+#appendix-2{
+	margin-top: 20vh;
+}
+
+#appendix-1 > p:nth-of-type(1),
+#appendix-1 > p:nth-of-type(2),
+#appendix-1 > p:nth-of-type(5),
+#appendix-1 > p:nth-of-type(6),
+#appendix-1 > p:nth-of-type(7),
+#appendix-1 > p:nth-of-type(10),
+#appendix-2 > p:nth-of-type(2),
+#appendix-2 > p:nth-of-type(3){
+	margin-bottom: 1em;
+	text-align: center;
+	text-indent: 0;
+}
+
+#appendix-2 > p:first-of-type{
+	margin-bottom: 1em;
+}
+
+#appendix-1 li,
+#appendix-2 li{
+	margin-bottom: 0;
+}
+
+#appendix-1 > p:first-of-type,
+#appendix-1 > p:nth-of-type(6){
+	font-variant: small-caps;
+	font-size: 1.25em;
+}
+
+#appendix-1 > p:nth-of-type(5),
+#appendix-1 > p:nth-of-type(10),
+#appendix-2 > p:nth-of-type(3){
+	margin-top: 2em;
+}
+
+#appendix-1 > p:nth-of-type(6){
+	break-before: always;
+}
+
+#appendix-1 ul,
+#appendix-2 ul{
+	list-style-type: none;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
-}
-
-#epilogue,
-#preface{
-	margin-top: 20vh;
 }
 
 /* All dedications */
@@ -88,6 +140,7 @@ figure{
 /* end of images
 
 /* poem/verse/song */
+
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -111,13 +164,13 @@ figure{
 }
 
 p span.i4{
+	padding-left: 5em;
 	text-indent: -1em;
-	padding-left: 2em;
 }
 
 p span.i8{
+	padding-left: 9em;
 	text-indent: -1em;
-	padding-left: 3em;
 }
 
 p span.rm{
