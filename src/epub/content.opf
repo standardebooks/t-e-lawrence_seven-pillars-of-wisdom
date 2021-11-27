@@ -72,6 +72,109 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alfred_de_Dreux</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n90717971</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="artist-2">Sydney Carline</dc:contributor>
+		<meta property="file-as" refines="#artist-2">Carline, Sydney</meta>
+		<meta property="se:name.person.full-name" refines="#artist-2">Sydney William Carline</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-2">https://en.wikipedia.org/wiki/Sydney_Carline</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-2">http://id.loc.gov/authorities/names/no2012071405</meta>
+		<meta property="display-seq" refines="#artist-2">0</meta>
+		<meta property="role" refines="#artist-2" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-3">John Cosmo Clark</dc:contributor>
+		<meta property="file-as" refines="#artist-3">Clark, John Cosmo</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-3">http://id.loc.gov/authorities/names/nb2008027365</meta>
+		<meta property="display-seq" refines="#artist-3">0</meta>
+		<meta property="role" refines="#artist-3" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-4">Frank Dobson</dc:contributor>
+		<meta property="file-as" refines="#artist-4">Dobson, Frank</meta>
+		<meta property="se:name.person.full-name" refines="#artist-4">Frank Owen Dobson</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-4">https://en.wikipedia.org/wiki/Frank_Dobson_(sculptor)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-4">http://id.loc.gov/authorities/names/n83317590</meta>
+		<meta property="display-seq" refines="#artist-4">0</meta>
+		<meta property="role" refines="#artist-4" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-5">Gertrude Hermes</dc:contributor>
+		<meta property="file-as" refines="#artist-5">Hermes, Gertrude</meta>
+		<meta property="se:name.person.full-name" refines="#artist-5">Gertrude Anna Bertha Hermes</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-5">https://en.wikipedia.org/wiki/Gertrude_Hermes</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-5">http://id.loc.gov/authorities/names/n85180671</meta>
+		<meta property="display-seq" refines="#artist-5">0</meta>
+		<meta property="role" refines="#artist-5" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-6">Eric Kennington</dc:contributor>
+		<meta property="file-as" refines="#artist-6">Kennington, Eric</meta>
+		<meta property="se:name.person.full-name" refines="#artist-6">Eric Henri Kennington</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-6">https://en.wikipedia.org/wiki/Eric_Kennington</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-6">http://id.loc.gov/authorities/names/no96056635</meta>
+		<meta property="display-seq" refines="#artist-6">0</meta>
+		<meta property="role" refines="#artist-6" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-7">Colin Gill</dc:contributor>
+		<meta property="file-as" refines="#artist-7">Gill, Colin</meta>
+		<meta property="se:name.person.full-name" refines="#artist-7">Colin Unwin Gill</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-7">https://en.wikipedia.org/wiki/Colin_Gill</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-7">http://id.loc.gov/authorities/names/no97048965</meta>
+		<meta property="display-seq" refines="#artist-7">0</meta>
+		<meta property="role" refines="#artist-7" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-8">Blair Hughes-Stanton</dc:contributor>
+		<meta property="file-as" refines="#artist-8">Hughes-Stanton, Blair</meta>
+		<meta property="se:name.person.full-name" refines="#artist-8">Blair Rowlands Hughes-Stangon</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-8">https://en.wikipedia.org/wiki/Blair_Hughes-Stanton</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-8">http://id.loc.gov/authorities/names/n82080140</meta>
+		<meta property="display-seq" refines="#artist-8">0</meta>
+		<meta property="role" refines="#artist-8" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-9">Augustus John</dc:contributor>
+		<meta property="file-as" refines="#artist-9">John, Augustus</meta>
+		<meta property="se:name.person.full-name" refines="#artist-9">Augustus Edwin John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-9">https://en.wikipedia.org/wiki/Augustus_John</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-9">http://id.loc.gov/authorities/names/n50038612</meta>
+		<meta property="display-seq" refines="#artist-9">0</meta>
+		<meta property="role" refines="#artist-9" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-10">Henry Lamb</dc:contributor>
+		<meta property="file-as" refines="#artist-10">Lamb, Henry</meta>
+		<meta property="se:name.person.full-name" refines="#artist-10">Henry Taylor Lamb</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-10">https://en.wikipedia.org/wiki/Henry_Lamb</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-10">http://id.loc.gov/authorities/names/n84234277</meta>
+		<meta property="display-seq" refines="#artist-10">0</meta>
+		<meta property="role" refines="#artist-10" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-11">Paul Nash</dc:contributor>
+		<meta property="file-as" refines="#artist-11">Nash, Paul</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-11">https://en.wikipedia.org/wiki/Paul_Nash_(artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-11">http://id.loc.gov/authorities/names/n50047335</meta>
+		<meta property="display-seq" refines="#artist-11">0</meta>
+		<meta property="role" refines="#artist-11" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-12">William Nicholson</dc:contributor>
+		<meta property="file-as" refines="#artist-12">Nicholson, William</meta>
+		<meta property="se:name.person.full-name" refines="#artist-12">William Newzam Prior Nicholson</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-12">https://en.wikipedia.org/wiki/William_Nicholson_(artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-12">http://id.loc.gov/authorities/names/n50003808</meta>
+		<meta property="display-seq" refines="#artist-12">0</meta>
+		<meta property="role" refines="#artist-12" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-13">William Roberts</dc:contributor>
+		<meta property="file-as" refines="#artist-13">Roberts, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-13">https://en.wikipedia.org/wiki/William_Roberts_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-13">http://id.loc.gov/authorities/names/n50049020</meta>
+		<meta property="display-seq" refines="#artist-13">0</meta>
+		<meta property="role" refines="#artist-13" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-14">William Rothenstein</dc:contributor>
+		<meta property="file-as" refines="#artist-14">Rothenstein, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-14">https://en.wikipedia.org/wiki/William_Rothenstein</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-14">http://id.loc.gov/authorities/names/no2007110853</meta>
+		<meta property="display-seq" refines="#artist-14">0</meta>
+		<meta property="role" refines="#artist-14" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-15">John Singer Sargent</dc:contributor>
+		<meta property="file-as" refines="#artist-15">Sargent, John Singer</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-15">https://en.wikipedia.org/wiki/John_Singer_Sargent</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-15">http://id.loc.gov/authorities/names/n50019335</meta>
+		<meta property="display-seq" refines="#artist-15">0</meta>
+		<meta property="role" refines="#artist-15" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-16">Gilbert Spencer</dc:contributor>
+		<meta property="file-as" refines="#artist-16">Spencer, Gilbert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-16">https://en.wikipedia.org/wiki/Gilbert_Spencer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-16">http://id.loc.gov/authorities/names/n95028656</meta>
+		<meta property="display-seq" refines="#artist-16">0</meta>
+		<meta property="role" refines="#artist-16" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist-17">R. M. Young</dc:contributor>
+		<meta property="file-as" refines="#artist-17">Young, R. M.</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist-17">http://id.loc.gov/authorities/names/no97048963</meta>
+		<meta property="display-seq" refines="#artist-17">0</meta>
+		<meta property="role" refines="#artist-17" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Colin Choat</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Choat, Colin</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
