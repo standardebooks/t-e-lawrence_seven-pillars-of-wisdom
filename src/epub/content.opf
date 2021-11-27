@@ -53,7 +53,8 @@
 		The endpapers, maps, photographs, and portraits have been separated into their own appendices. The endpapers have no caption in the printed book, but one is included here, but with CSS set to not display, so the caption could be included in the LOI instead of the alt description. This allows the LOI to have the name and illustrator of the endpapers, rather than the alt description.
 		Each of the captions has the last name of the illustrator for that illustration in parentheses; this matches the printed book, where the LOI contained that information.
 		In the printed book, the epilogue has no title, but is formatted (centered and italicized) in a way that made it obvious. Since this production is not following that formatting, a title was added to make it clear.
-		Lawrence made it a point not to be consistent in his transliteration of Arabian names and cities (see, e.g., the paragraph at the beginning of Appendix 2), and this edition has kept that inconsistency intact.</meta>
+		Lawrence made it a point not to be consistent in his transliteration of Arabian names and cities (see, e.g., the paragraph at the beginning of Appendix 2), and this edition has kept that inconsistency intact.
+		The first edition mis-numbered the chapters beginning with chapter 12; there is no chapter 11. This edition corrects that, and so there is one less chapter than in the scans.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Seven_Pillars_of_Wisdom</meta>
