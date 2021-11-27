@@ -1,6 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 /* location-specific */
 section[epub|type~="part"] > hgroup + p:first-of-type{
 	margin-bottom: 1em;
@@ -9,10 +14,13 @@ section[epub|type~="part"] > hgroup + p:first-of-type{
 }
 
 #preface,
-#epilogue,
 #appendix-1,
 #appendix-2{
 	margin-top: 20vh;
+}
+
+#chapter-53 figure:first-of-type{
+	break-after: always;
 }
 
 #appendix-1 > p:nth-of-type(1),
@@ -58,10 +66,10 @@ section[epub|type~="part"] > hgroup + p:first-of-type{
 	list-style-type: none;
 }
 
-footer{
-	margin-top: 1em;
-	text-align: right;
+#appendix-3 figcaption{
+	display: none;
 }
+/* end of location specific */
 
 /* All dedications */
 section[epub|type~="dedication"]{
@@ -103,10 +111,6 @@ figcaption{
 	font-size: .75em;
 	font-style: italic;
 	margin: 1em;
-}
-
-figcaption p + p{
-	text-indent: 0;
 }
 
 /* full page */
