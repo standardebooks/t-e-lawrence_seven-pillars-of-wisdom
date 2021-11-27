@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="appendix-1.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Paragraphs are functioning as headers, so no punctuation is correct.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
