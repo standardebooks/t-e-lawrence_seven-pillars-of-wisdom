@@ -193,45 +193,105 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
-		<item href="images/a-garden-p212-606.jpg" id="a-garden-p212-606.jpg" media-type="image/jpeg"/>
-		<item href="images/a-jolly-evening-p213.jpg" id="a-jolly-evening-p213.jpg" media-type="image/jpeg"/>
-		<item href="images/a-literary-method-p519.svg" id="a-literary-method-p519.svg" media-type="image/svg+xml"/>
-		<item href="images/a-miscarriage-p410.svg" id="a-miscarriage-p410.svg" media-type="image/svg+xml"/>
-		<item href="images/a-rabbit-p652.jpg" id="a-rabbit-p652.jpg" media-type="image/jpeg"/>
-		<item href="images/ambush-p275-500.jpg" id="ambush-p275-500.jpg" media-type="image/jpeg"/>
-		<item href="images/appeasing-a-tumult-p135-335-336-360-383.jpg" id="appeasing-a-tumult-p135-335-336-360-383.jpg" media-type="image/jpeg"/>
-		<item href="images/ashab-p597-600.jpg" id="ashab-p597-600.jpg" media-type="image/jpeg"/>
-		<item href="images/at-a-well-p57-278-342-428.jpg" id="at-a-well-p57-278-342-428.jpg" media-type="image/jpeg"/>
-		<item href="images/at-akaba-p295.jpg" id="at-akaba-p295.jpg" media-type="image/jpeg"/>
-		<item href="images/beyond-the-end-p332-333.jpg" id="beyond-the-end-p332-333.jpg" media-type="image/jpeg"/>
-		<item href="images/blasted-tree.jpg" id="blasted-tree.jpg" media-type="image/jpeg"/>
-		<item href="images/body-spirit-soul-p449.jpg" id="body-spirit-soul-p449.jpg" media-type="image/jpeg"/>
-		<item href="images/body-survives-the-soul-p209-395.jpg" id="body-survives-the-soul-p209-395.jpg" media-type="image/jpeg"/>
-		<item href="images/caesar-p638-639.svg" id="caesar-p638-639.svg" media-type="image/svg+xml"/>
-		<item href="images/camel-ambulance-p416-288-356.jpg" id="camel-ambulance-p416-288-356.jpg" media-type="image/jpeg"/>
-		<item href="images/camel-march-p100-121-294.jpg" id="camel-march-p100-121-294.jpg" media-type="image/jpeg"/>
-		<item href="images/conscience-our-guide-p360-568.jpg" id="conscience-our-guide-p360-568.jpg" media-type="image/jpeg"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/creator-p14-15.jpg" id="creator-p14-15.jpg" media-type="image/jpeg"/>
-		<item href="images/dhaif-allah-p212-276-286.jpg" id="dhaif-allah-p212-276-286.jpg" media-type="image/jpeg"/>
-		<item href="images/dhatel-haj-p616.jpg" id="dhatel-haj-p616.jpg" media-type="image/jpeg"/>
-		<item href="images/dignity-p43.jpg" id="dignity-p43.jpg" media-type="image/jpeg"/>
-		<item href="images/dogs-of-harith-p420.jpg" id="dogs-of-harith-p420.jpg" media-type="image/jpeg"/>
-		<item href="images/dysentery-p160.jpg" id="dysentery-p160.jpg" media-type="image/jpeg"/>
-		<item href="images/el-sakhara-p158-ch31.jpg" id="el-sakhara-p158-ch31.jpg" media-type="image/jpeg"/>
-		<item href="images/false-quiet.jpg" id="false-quiet.jpg" media-type="image/jpeg"/>
-		<item href="images/feysal.jpg" id="feysal.jpg" media-type="image/jpeg"/>
-		<item href="images/flashing-sword-p101-150.jpg" id="flashing-sword-p101-150.jpg" media-type="image/jpeg"/>
-		<item href="images/forced-landing-1.svg" id="forced-landing-1.svg" media-type="image/svg+xml"/>
-		<item href="images/forced-landing-2.svg" id="forced-landing-2.svg" media-type="image/svg+xml"/>
-		<item href="images/gadfly-p39.svg" id="gadfly-p39.svg" media-type="image/svg+xml"/>
-		<item href="images/glory-of-a-young-man-p128-420-448-464-530-547-556.jpg" id="glory-of-a-young-man-p128-420-448-464-530-547-556.jpg" media-type="image/jpeg"/>
-		<item href="images/goal-p595-629-634.jpg" id="goal-p595-629-634.jpg" media-type="image/jpeg"/>
-		<item href="images/good-intentions-p520.svg" id="good-intentions-p520.svg" media-type="image/svg+xml"/>
-		<item href="images/high-explosive-p320-349-361-413-635.jpg" id="high-explosive-p320-349-361-413-635.jpg" media-type="image/jpeg"/>
-		<item href="images/ibrahim-pasha-p130.jpg" id="ibrahim-pasha-p130.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-1.jpg" id="illustration-1.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-2.jpg" id="illustration-2.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-3.jpg" id="illustration-3.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-4.jpg" id="illustration-4.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-5.jpg" id="illustration-5.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-6.jpg" id="illustration-6.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-7.svg" id="illustration-7.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-8.jpg" id="illustration-8.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-9.jpg" id="illustration-9.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-10.jpg" id="illustration-10.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-11.jpg" id="illustration-11.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-12.jpg" id="illustration-12.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-13.jpg" id="illustration-13.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-14.jpg" id="illustration-14.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-15.jpg" id="illustration-15.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-16.jpg" id="illustration-16.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-17.jpg" id="illustration-17.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-18.jpg" id="illustration-18.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-19.jpg" id="illustration-19.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-20.jpg" id="illustration-20.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-21.jpg" id="illustration-21.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-22.jpg" id="illustration-22.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-23.jpg" id="illustration-23.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-24.jpg" id="illustration-24.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-25.jpg" id="illustration-25.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-26.jpg" id="illustration-26.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-27.jpg" id="illustration-27.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-28.jpg" id="illustration-28.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-29.jpg" id="illustration-29.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-30.jpg" id="illustration-30.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-31.jpg" id="illustration-31.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-32.svg" id="illustration-32.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-33.svg" id="illustration-33.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-34.jpg" id="illustration-34.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-35.jpg" id="illustration-35.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-36.svg" id="illustration-36.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-37.jpg" id="illustration-37.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-38.jpg" id="illustration-38.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-39.jpg" id="illustration-39.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-40.jpg" id="illustration-40.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-41.jpg" id="illustration-41.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-42.jpg" id="illustration-42.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-43.jpg" id="illustration-43.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-44.jpg" id="illustration-44.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-45.jpg" id="illustration-45.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-46.svg" id="illustration-46.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-47.jpg" id="illustration-47.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-48.jpg" id="illustration-48.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-49.svg" id="illustration-49.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-50.svg" id="illustration-50.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-51.jpg" id="illustration-51.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-52.jpg" id="illustration-52.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-53.jpg" id="illustration-53.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-54.jpg" id="illustration-54.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-55.svg" id="illustration-55.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-56.jpg" id="illustration-56.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-57.jpg" id="illustration-57.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-58.jpg" id="illustration-58.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-59.jpg" id="illustration-59.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-60.svg" id="illustration-60.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-61.jpg" id="illustration-61.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-62.svg" id="illustration-62.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-63.jpg" id="illustration-63.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-64.jpg" id="illustration-64.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-65.jpg" id="illustration-65.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-66.svg" id="illustration-66.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-67.jpg" id="illustration-67.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-68.jpg" id="illustration-68.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-69.jpg" id="illustration-69.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-70.jpg" id="illustration-70.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-71.jpg" id="illustration-71.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-72.jpg" id="illustration-72.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-73.jpg" id="illustration-73.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-74.jpg" id="illustration-74.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-75.svg" id="illustration-75.svg" media-type="image/svg+xml"/>
+		<item href="images/illustration-76.jpg" id="illustration-76.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-77.jpg" id="illustration-77.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-78.jpg" id="illustration-78.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-79.jpg" id="illustration-79.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-80.jpg" id="illustration-80.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-81.jpg" id="illustration-81.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-82.jpg" id="illustration-82.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-83.jpg" id="illustration-83.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-84.jpg" id="illustration-84.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-85.jpg" id="illustration-85.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-86.jpg" id="illustration-86.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-87.jpg" id="illustration-87.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-88.jpg" id="illustration-88.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-89.jpg" id="illustration-89.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-90.jpg" id="illustration-90.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-91.jpg" id="illustration-91.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-92.jpg" id="illustration-92.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-93.jpg" id="illustration-93.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-94.jpg" id="illustration-94.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-95.jpg" id="illustration-95.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-96.jpg" id="illustration-96.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-97.jpg" id="illustration-97.jpg" media-type="image/jpeg"/>
+		<item href="images/illustration-98.jpg" id="illustration-98.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-99.jpg" id="illustration-99.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-100.jpg" id="illustration-100.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-101.jpg" id="illustration-101.jpg" media-type="image/jpeg"/>
@@ -263,68 +323,8 @@
 		<item href="images/illustration-127.jpg" id="illustration-127.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-128.jpg" id="illustration-128.jpg" media-type="image/jpeg"/>
 		<item href="images/illustration-129.jpg" id="illustration-129.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-130.jpg" id="illustration-130.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-131.jpg" id="illustration-131.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-132.jpg" id="illustration-132.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-133.jpg" id="illustration-133.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-134.jpg" id="illustration-134.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-135.jpg" id="illustration-135.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-136.jpg" id="illustration-136.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-137.jpg" id="illustration-137.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-138.jpg" id="illustration-138.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-139.jpg" id="illustration-139.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-140.jpg" id="illustration-140.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-141.jpg" id="illustration-141.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-142.jpg" id="illustration-142.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-143.jpg" id="illustration-143.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-144.jpg" id="illustration-144.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-145.jpg" id="illustration-145.jpg" media-type="image/jpeg"/>
-		<item href="images/illustration-146.jpg" id="illustration-146.jpg" media-type="image/jpeg"/>
-		<item href="images/in-a-tent-p149-166-137.jpg" id="in-a-tent-p149-166-137.jpg" media-type="image/jpeg"/>
-		<item href="images/in-his-own-image-p536-539.jpg" id="in-his-own-image-p536-539.jpg" media-type="image/jpeg"/>
-		<item href="images/infantry-p367-629-630.jpg" id="infantry-p367-629-630.jpg" media-type="image/jpeg"/>
-		<item href="images/introspection-p549-554.svg" id="introspection-p549-554.svg" media-type="image/svg+xml"/>
-		<item href="images/irish-troops-being-bombed-in-judean-hills-p437.jpg" id="irish-troops-being-bombed-in-judean-hills-p437.jpg" media-type="image/jpeg"/>
-		<item href="images/khamsin-p228.jpg" id="khamsin-p228.jpg" media-type="image/jpeg"/>
-		<item href="images/kindergarten-p442.svg" id="kindergarten-p442.svg" media-type="image/svg+xml"/>
-		<item href="images/last-prophet-p13-128.jpg" id="last-prophet-p13-128.jpg" media-type="image/jpeg"/>
-		<item href="images/little-less-p378.jpg" id="little-less-p378.jpg" media-type="image/jpeg"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/luxury-p182-211-215.jpg" id="luxury-p182-211-215.jpg" media-type="image/jpeg"/>
-		<item href="images/male-female-p499.jpg" id="male-female-p499.jpg" media-type="image/jpeg"/>
-		<item href="images/mountains-p376.jpg" id="mountains-p376.jpg" media-type="image/jpeg"/>
-		<item href="images/mucking-in-p165-245-273.jpg" id="mucking-in-p165-245-273.jpg" media-type="image/jpeg"/>
-		<item href="images/mudowwara-from-the-air.jpg" id="mudowwara-from-the-air.jpg" media-type="image/jpeg"/>
-		<item href="images/night-bombing-p323-602-608.jpg" id="night-bombing-p323-602-608.jpg" media-type="image/jpeg"/>
-		<item href="images/nightmare-p165.jpg" id="nightmare-p165.jpg" media-type="image/jpeg"/>
-		<item href="images/object-lesson-p622-624-22-70-279-286.jpg" id="object-lesson-p622-624-22-70-279-286.jpg" media-type="image/jpeg"/>
-		<item href="images/off-duty-p300-308.jpg" id="off-duty-p300-308.jpg" media-type="image/jpeg"/>
-		<item href="images/oxford-manner-p91-93-252-341.jpg" id="oxford-manner-p91-93-252-341.jpg" media-type="image/jpeg"/>
-		<item href="images/prickly-pear.jpg" id="prickly-pear.jpg" media-type="image/jpeg"/>
-		<item href="images/prophets-tomb-p644.jpg" id="prophets-tomb-p644.jpg" media-type="image/jpeg"/>
-		<item href="images/reluctant-shepherd-p179.jpg" id="reluctant-shepherd-p179.jpg" media-type="image/jpeg"/>
-		<item href="images/scouting-p233-275-499.jpg" id="scouting-p233-275-499.jpg" media-type="image/jpeg"/>
-		<item href="images/sirhan-p251.jpg" id="sirhan-p251.jpg" media-type="image/jpeg"/>
-		<item href="images/sleeping-waking-p99-102.jpg" id="sleeping-waking-p99-102.jpg" media-type="image/jpeg"/>
-		<item href="images/spine-drill.jpg" id="spine-drill.jpg" media-type="image/jpeg"/>
-		<item href="images/sport-of-kings-p539.jpg" id="sport-of-kings-p539.jpg" media-type="image/jpeg"/>
-		<item href="images/staff-conference-p520-488.jpg" id="staff-conference-p520-488.jpg" media-type="image/jpeg"/>
-		<item href="images/standards-of-value-p258-396-472.jpg" id="standards-of-value-p258-396-472.jpg" media-type="image/jpeg"/>
-		<item href="images/stokes-gun-class-p325-ch60.jpg" id="stokes-gun-class-p325-ch60.jpg" media-type="image/jpeg"/>
-		<item href="images/strata-p481-ch89.jpg" id="strata-p481-ch89.jpg" media-type="image/jpeg"/>
-		<item href="images/suppliants-p102.jpg" id="suppliants-p102.jpg" media-type="image/jpeg"/>
-		<item href="images/tafas2-p621-ch117.jpg" id="tafas2-p621-ch117.jpg" media-type="image/jpeg"/>
-		<item href="images/temptation-of-necessary-food-p472.svg" id="temptation-of-necessary-food-p472.svg" media-type="image/svg+xml"/>
-		<item href="images/the-eternal-itch.jpg" id="the-eternal-itch.jpg" media-type="image/jpeg"/>
-		<item href="images/the-world-the-flesh-the-devil.jpg" id="the-world-the-flesh-the-devil.jpg" media-type="image/jpeg"/>
-		<item href="images/thinking-ch99.jpg" id="thinking-ch99.jpg" media-type="image/jpeg"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="images/turk-troops-bombed-in-wadi-fara.jpg" id="turk-troops-bombed-in-wadi-fara.jpg" media-type="image/jpeg"/>
-		<item href="images/us-all-p329-480.svg" id="us-all-p329-480.svg" media-type="image/svg+xml"/>
-		<item href="images/victory-p43-150.jpg" id="victory-p43-150.jpg" media-type="image/jpeg"/>
-		<item href="images/waterfall-p333-336.jpg" id="waterfall-p333-336.jpg" media-type="image/jpeg"/>
-		<item href="images/why-not-run-away-p289-319-320.jpg" id="why-not-run-away-p289-319-320.jpg" media-type="image/jpeg"/>
-		<item href="images/wind-p300.svg" id="wind-p300.svg" media-type="image/svg+xml"/>
 		<item href="text/appendix-1.xhtml" id="appendix-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/appendix-2.xhtml" id="appendix-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/appendix-3.xhtml" id="appendix-3.xhtml" media-type="application/xhtml+xml"/>
@@ -396,8 +396,8 @@
 		<item href="text/chapter-53.xhtml" id="chapter-53.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/chapter-54.xhtml" id="chapter-54.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-55.xhtml" id="chapter-55.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-56.xhtml" id="chapter-56.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/chapter-57.xhtml" id="chapter-57.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/chapter-56.xhtml" id="chapter-56.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/chapter-57.xhtml" id="chapter-57.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-58.xhtml" id="chapter-58.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-59.xhtml" id="chapter-59.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-60.xhtml" id="chapter-60.xhtml" media-type="application/xhtml+xml"/>
