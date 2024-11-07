@@ -17,7 +17,7 @@ section[epub|type~="part"] > p:first-of-type{
 }
 
 #appendix-1 > section > header{
-	font-size: 1.25em;
+	font-size: larger;
 	font-variant: small-caps;
 }
 
