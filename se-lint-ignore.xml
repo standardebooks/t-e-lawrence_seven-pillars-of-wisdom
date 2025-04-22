@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-108.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is the name of a class of plane.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-109.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is the name of a class of plane.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-113.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is the name of a class of plane.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-114.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is the name of a class of plane.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
