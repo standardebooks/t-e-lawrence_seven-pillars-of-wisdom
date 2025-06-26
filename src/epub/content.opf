@@ -7,13 +7,13 @@
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -47,7 +47,7 @@
 			&lt;p&gt;The manuscript of &lt;i&gt;Seven Pillars of Wisdom&lt;/i&gt; has a rich history. Lawrence finished his first draft in 1919 from his notes during the war, but lost most of it when changing trains in England (it was never found). The next year, he started working on a new version from memory that ended up being sixty percent longer than the original. He then edited that version (although it was still a third longer than the original draft), finishing it in early 1922, and had eight copies of it printed to give to friends so they could review it and offer editing suggestions (and to prevent a repeat of losing his only copy). About this time he re-enlisted in the service, but friends convinced him to work on a version he could publish. In 1926, he had a first edition of approximately 200 copies published that included 125 black-and-white and color illustrations from sixteen different artists. The first edition lost money, and it was the only edition published during his lifetime. This edition uses the first edition text and includes all 125 of the original illustrations, including both endpapers.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>https://gutenberg.net.au/ebooks01/0100111h.html</dc:source>
+		<dc:source>https://www.gutenberg.net.au/ebooks01/0100111h.html</dc:source>
 		<dc:source>https://www.loc.gov/resource/rbc0001.2017rosen2254</dc:source>
 		<meta property="se:production-notes">As in the printed first edition, in-chapter illustrations are positioned at the end of chapters, with the exception of a couple of chapters that have line drawings close to the action of the drawing. The illustrations are whenever possible positioned in a chapter in which what is being depicted is mentioned, otherwise they are in the chapter prior or after. The printed edition mixed several full-page illustrations in with the portraits at the end of the book; this edition has positioned those illustrations in the chapters in which they're mentioned as well. This has resulted in a couple of chapters having two illustrations at the end. (The exception is the prickly pear; it is not only not mentioned, it is also not in the first edition’s LoI.)
 		The endpapers, maps, photographs, and portraits have been separated into their own appendices.
@@ -181,7 +181,7 @@
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -191,7 +191,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
