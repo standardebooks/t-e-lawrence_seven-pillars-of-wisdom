@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Seven Pillars of Wisdom</dc:title>
 		<meta property="file-as" refines="#title">Seven Pillars of Wisdom</meta>
-		<meta property="dcterms:alternate" refines="#title">7 Pillars of Wisdom</meta>
+		<meta property="dcterms:alternative" refines="#title">7 Pillars of Wisdom</meta>
 		<dc:subject id="subject-1">Arab countries--History--Arab Revolt, 1916-1918</dc:subject>
 		<dc:subject id="subject-2">World War, 1914-1918</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
