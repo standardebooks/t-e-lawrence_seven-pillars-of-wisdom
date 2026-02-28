@@ -82,7 +82,7 @@
 		<meta property="role" refines="#artist-2" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-3">John Cosmo Clark</dc:contributor>
 		<meta property="file-as" refines="#artist-3">Clark, John Cosmo</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-3">http://id.loc.gov/authorities/names/nb2008027365</meta>-
+		<meta property="se:url.authority.nacoaf" refines="#artist-3">http://id.loc.gov/authorities/names/nb2008027365</meta>
 		<meta property="role" refines="#artist-3" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-4">Frank Dobson</dc:contributor>
 		<meta property="file-as" refines="#artist-4">Dobson, Frank</meta>
