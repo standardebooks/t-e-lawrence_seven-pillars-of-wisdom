@@ -2,21 +2,26 @@
 <se-lint-ignore>
 	<file path="chapter-108.xhtml">
 		<ignore code="y-034">
+			<line>15</line>
 			<reason>Matched text is the name of a class of plane.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-109.xhtml">
 		<ignore code="y-034">
+			<line>26</line>
 			<reason>Matched text is the name of a class of plane.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-113.xhtml">
 		<ignore code="y-034">
+			<line>39</line>
 			<reason>Matched text is the name of a class of plane.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-114.xhtml">
 		<ignore code="y-034">
+			<line>11</line>
+			<line>15</line>
 			<reason>Matched text is the name of a class of plane.</reason>
 		</ignore>
 	</file>
