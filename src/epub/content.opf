@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/t-e-lawrence/seven-pillars-of-wisdom</dc:identifier>
 		<dc:date>2022-01-01T22:32:49Z</dc:date>
 		<meta property="dcterms:modified">2022-01-01T22:32:49Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -37,9 +38,9 @@
 		<meta property="term" refines="#subject-1">sh85006283</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85148236</meta>
-		<meta property="se:subject">Adventure</meta>
-		<meta property="se:subject">Memoir</meta>
-		<meta property="se:subject">Nonfiction</meta>
+		<meta property="schema:genre">Adventure</meta>
+		<meta property="schema:genre">Memoir</meta>
+		<meta property="schema:genre">Nonfiction</meta>
 		<dc:description id="description">T. E. Lawrence’s memoir of leading the Arab revolt against the Ottoman empire during World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Seven Pillars of Wisdom&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/t-e-lawrence"&gt;&lt;abbr&gt;T. E.&lt;/abbr&gt; Lawrence’s&lt;/a&gt; memoir of his involvement in leading a portion of the Arab revolt against the Ottoman empire during World War I. The empire had joined the side of Germany and the Central Powers in the war, and Britain hoped that a successful revolt would take the empire out of the war effort. Britain had also promised the Arabs that, if they were successful, England would recognize a single Arab state.&lt;/p&gt;
@@ -50,124 +51,120 @@
 		<dc:source>https://www.gutenberg.net.au/ebooks01/0100111h.html</dc:source>
 		<dc:source>https://www.loc.gov/resource/rbc0001.2017rosen2254</dc:source>
 		<dc:source>https://archive.org/details/sevenpillarsofwi0000unse_t7h3</dc:source>
-		<meta property="se:production-notes">As in the printed first edition, in-chapter illustrations are positioned at the end of chapters, with the exception of a couple of chapters that have line drawings close to the action of the drawing. The illustrations are whenever possible positioned in a chapter in which what is being depicted is mentioned, otherwise they are in the chapter prior or after. The printed edition mixed several full-page illustrations in with the portraits at the end of the book; this edition has positioned those illustrations in the chapters in which they're mentioned as well. This has resulted in a couple of chapters having two illustrations at the end. (The exception is the prickly pear; it is not only not mentioned, it is also not in the first edition’s LoI.)
-		The endpapers, maps, photographs, and portraits have been separated into their own appendices.
-		Each of the captions has the last name of the illustrator for that illustration in parentheses; this matches the printed book, where the LOI contained that information.
-		In the printed book, the epilogue has no title, but is formatted (centered and italicized) in a way that made it obvious. Since this production is not following that formatting, a title was added to make it clear.
-		Lawrence made it a point not to be consistent in his transliteration of Arabian names and cities (see, e.g., the paragraph at the beginning of Appendix 2), and this edition has kept that inconsistency intact.
-		The first edition mis-numbered the chapters beginning with chapter 12; there is no chapter 11. This edition corrects that, and so there is one less chapter than in the scans.</meta>
-		<meta property="se:word-count">252065</meta>
-		<meta property="se:reading-ease.flesch">65.56</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Seven_Pillars_of_Wisdom</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/t-e-lawrence_seven-pillars-of-wisdom</meta>
+		<meta property="schema:wordCount">252065</meta>
+		<meta property="schema:educationalLevel">65.56</meta>
+		<link href="https://en.wikipedia.org/wiki/Seven_Pillars_of_Wisdom" rel="schema:sameAs"/>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/t-e-lawrence_seven-pillars-of-wisdom" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">T. E. Lawrence</dc:creator>
 		<meta property="file-as" refines="#author">Lawrence, T. E.</meta>
-		<meta property="se:name.person.full-name" refines="#author">Thomas Edward Lawrence</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/T._E._Lawrence</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79097491</meta>
+		<meta property="schema:alternateName" refines="#author">Thomas Edward Lawrence</meta>
+		<link href="https://en.wikipedia.org/wiki/T._E._Lawrence" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79097491.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Alfred de Dreux</dc:contributor>
 		<meta property="file-as" refines="#artist">de Dreaux, Alfred</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Pierre-Alfred Dedreux</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alfred_de_Dreux</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n90717971</meta>
+		<meta property="schema:alternateName" refines="#artist">Pierre-Alfred Dedreux</meta>
+		<link href="https://en.wikipedia.org/wiki/Alfred_de_Dreux" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n90717971.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="artist-2">Sydney Carline</dc:contributor>
 		<meta property="file-as" refines="#artist-2">Carline, Sydney</meta>
-		<meta property="se:name.person.full-name" refines="#artist-2">Sydney William Carline</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-2">https://en.wikipedia.org/wiki/Sydney_Carline</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-2">http://id.loc.gov/authorities/names/no2012071405</meta>
+		<meta property="schema:alternateName" refines="#artist-2">Sydney William Carline</meta>
+		<link href="https://en.wikipedia.org/wiki/Sydney_Carline" refines="#artist-2" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no2012071405.html" refines="#artist-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-2" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-3">John Cosmo Clark</dc:contributor>
 		<meta property="file-as" refines="#artist-3">Clark, John Cosmo</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-3">http://id.loc.gov/authorities/names/nb2008027365</meta>
+		<link href="https://id.loc.gov/authorities/names/nb2008027365.html" refines="#artist-3" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-3" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-4">Frank Dobson</dc:contributor>
 		<meta property="file-as" refines="#artist-4">Dobson, Frank</meta>
-		<meta property="se:name.person.full-name" refines="#artist-4">Frank Owen Dobson</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-4">https://en.wikipedia.org/wiki/Frank_Dobson_(sculptor)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-4">http://id.loc.gov/authorities/names/n83317590</meta>
+		<meta property="schema:alternateName" refines="#artist-4">Frank Owen Dobson</meta>
+		<link href="https://en.wikipedia.org/wiki/Frank_Dobson_(sculptor)" refines="#artist-4" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n83317590.html" refines="#artist-4" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-4" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-5">Gertrude Hermes</dc:contributor>
 		<meta property="file-as" refines="#artist-5">Hermes, Gertrude</meta>
-		<meta property="se:name.person.full-name" refines="#artist-5">Gertrude Anna Bertha Hermes</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-5">https://en.wikipedia.org/wiki/Gertrude_Hermes</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-5">http://id.loc.gov/authorities/names/n85180671</meta>
+		<meta property="schema:alternateName" refines="#artist-5">Gertrude Anna Bertha Hermes</meta>
+		<link href="https://en.wikipedia.org/wiki/Gertrude_Hermes" refines="#artist-5" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n85180671.html" refines="#artist-5" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-5" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-6">Eric Kennington</dc:contributor>
 		<meta property="file-as" refines="#artist-6">Kennington, Eric</meta>
-		<meta property="se:name.person.full-name" refines="#artist-6">Eric Henri Kennington</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-6">https://en.wikipedia.org/wiki/Eric_Kennington</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-6">http://id.loc.gov/authorities/names/no96056635</meta>
+		<meta property="schema:alternateName" refines="#artist-6">Eric Henri Kennington</meta>
+		<link href="https://en.wikipedia.org/wiki/Eric_Kennington" refines="#artist-6" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no96056635.html" refines="#artist-6" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-6" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-7">Colin Gill</dc:contributor>
 		<meta property="file-as" refines="#artist-7">Gill, Colin</meta>
-		<meta property="se:name.person.full-name" refines="#artist-7">Colin Unwin Gill</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-7">https://en.wikipedia.org/wiki/Colin_Gill</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-7">http://id.loc.gov/authorities/names/no97048965</meta>
+		<meta property="schema:alternateName" refines="#artist-7">Colin Unwin Gill</meta>
+		<link href="https://en.wikipedia.org/wiki/Colin_Gill" refines="#artist-7" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no97048965.html" refines="#artist-7" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-7" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-8">Blair Hughes-Stanton</dc:contributor>
 		<meta property="file-as" refines="#artist-8">Hughes-Stanton, Blair</meta>
-		<meta property="se:name.person.full-name" refines="#artist-8">Blair Rowlands Hughes-Stangon</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-8">https://en.wikipedia.org/wiki/Blair_Hughes-Stanton</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-8">http://id.loc.gov/authorities/names/n82080140</meta>
+		<meta property="schema:alternateName" refines="#artist-8">Blair Rowlands Hughes-Stangon</meta>
+		<link href="https://en.wikipedia.org/wiki/Blair_Hughes-Stanton" refines="#artist-8" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n82080140.html" refines="#artist-8" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-8" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-9">Augustus John</dc:contributor>
 		<meta property="file-as" refines="#artist-9">John, Augustus</meta>
-		<meta property="se:name.person.full-name" refines="#artist-9">Augustus Edwin John</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-9">https://en.wikipedia.org/wiki/Augustus_John</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-9">http://id.loc.gov/authorities/names/n50038612</meta>
+		<meta property="schema:alternateName" refines="#artist-9">Augustus Edwin John</meta>
+		<link href="https://en.wikipedia.org/wiki/Augustus_John" refines="#artist-9" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50038612.html" refines="#artist-9" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-9" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-10">Henry Lamb</dc:contributor>
 		<meta property="file-as" refines="#artist-10">Lamb, Henry</meta>
-		<meta property="se:name.person.full-name" refines="#artist-10">Henry Taylor Lamb</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-10">https://en.wikipedia.org/wiki/Henry_Lamb</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-10">http://id.loc.gov/authorities/names/n84234277</meta>
+		<meta property="schema:alternateName" refines="#artist-10">Henry Taylor Lamb</meta>
+		<link href="https://en.wikipedia.org/wiki/Henry_Lamb" refines="#artist-10" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n84234277.html" refines="#artist-10" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-10" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-11">Paul Nash</dc:contributor>
 		<meta property="file-as" refines="#artist-11">Nash, Paul</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-11">https://en.wikipedia.org/wiki/Paul_Nash_(artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-11">http://id.loc.gov/authorities/names/n50047335</meta>
+		<link href="https://en.wikipedia.org/wiki/Paul_Nash_(artist)" refines="#artist-11" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50047335.html" refines="#artist-11" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-11" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-12">William Nicholson</dc:contributor>
 		<meta property="file-as" refines="#artist-12">Nicholson, William</meta>
-		<meta property="se:name.person.full-name" refines="#artist-12">William Newzam Prior Nicholson</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-12">https://en.wikipedia.org/wiki/William_Nicholson_(artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-12">http://id.loc.gov/authorities/names/n50003808</meta>
+		<meta property="schema:alternateName" refines="#artist-12">William Newzam Prior Nicholson</meta>
+		<link href="https://en.wikipedia.org/wiki/William_Nicholson_(artist)" refines="#artist-12" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50003808.html" refines="#artist-12" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-12" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-13">William Roberts</dc:contributor>
 		<meta property="file-as" refines="#artist-13">Roberts, William</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-13">https://en.wikipedia.org/wiki/William_Roberts_(painter)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-13">http://id.loc.gov/authorities/names/n50049020</meta>
+		<link href="https://en.wikipedia.org/wiki/William_Roberts_(painter)" refines="#artist-13" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50049020.html" refines="#artist-13" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-13" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-14">William Rothenstein</dc:contributor>
 		<meta property="file-as" refines="#artist-14">Rothenstein, William</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-14">https://en.wikipedia.org/wiki/William_Rothenstein</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-14">http://id.loc.gov/authorities/names/no2007110853</meta>
+		<link href="https://en.wikipedia.org/wiki/William_Rothenstein" refines="#artist-14" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no2007110853.html" refines="#artist-14" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-14" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-15">John Singer Sargent</dc:contributor>
 		<meta property="file-as" refines="#artist-15">Sargent, John Singer</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-15">https://en.wikipedia.org/wiki/John_Singer_Sargent</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-15">http://id.loc.gov/authorities/names/n50019335</meta>
+		<link href="https://en.wikipedia.org/wiki/John_Singer_Sargent" refines="#artist-15" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50019335.html" refines="#artist-15" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-15" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-16">Gilbert Spencer</dc:contributor>
 		<meta property="file-as" refines="#artist-16">Spencer, Gilbert</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist-16">https://en.wikipedia.org/wiki/Gilbert_Spencer</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-16">http://id.loc.gov/authorities/names/n95028656</meta>
+		<link href="https://en.wikipedia.org/wiki/Gilbert_Spencer" refines="#artist-16" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n95028656.html" refines="#artist-16" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-16" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-17">R. M. Young</dc:contributor>
 		<meta property="file-as" refines="#artist-17">Young, R. M.</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist-17">http://id.loc.gov/authorities/names/no97048963</meta>
+		<link href="https://id.loc.gov/authorities/names/no97048963.html" refines="#artist-17" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-17" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Colin Choat</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Choat, Colin</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Rice, Vince</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://www.brokenandsaved.com/</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -177,7 +174,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<link href="https://alexcabal.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
