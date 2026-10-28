@@ -80,6 +80,7 @@
 		<meta property="role" refines="#artist-2" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-3">John Cosmo Clark</dc:contributor>
 		<meta property="file-as" refines="#artist-3">Clark, John Cosmo</meta>
+		<link href="https://en.wikipedia.org/wiki/Cosmo_Clark" refines="#artist-3" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nb2008027365.html" refines="#artist-3" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-3" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-4">Frank Dobson</dc:contributor>
