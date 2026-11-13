@@ -133,7 +133,7 @@
 		<dc:contributor id="artist-12">William Nicholson</dc:contributor>
 		<meta property="file-as" refines="#artist-12">Nicholson, William</meta>
 		<meta property="schema:alternateName" refines="#artist-12">William Newzam Prior Nicholson</meta>
-		<link href="https://en.wikipedia.org/wiki/William_Nicholson_(artist)" refines="#artist-12" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/William_Nicholson_(artist,_born_1781)" refines="#artist-12" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50003808.html" refines="#artist-12" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist-12" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist-13">William Roberts</dc:contributor>
