@@ -21,16 +21,20 @@ section[epub|type~="part"] > p:first-of-type{
 	font-variant: small-caps;
 }
 
-#appendix-1 ul{
-	break-inside: avoid;
-	column-gap: 2em;
-	columns: 3;
-	list-style: none;
+@supports(columns: 3){
+	#appendix-1 ul{
+		break-inside: avoid;
+		column-gap: 2em;
+		columns: 3;
+		list-style: none;
+	}
 }
 
-#appendix-1-2 > div:first-of-type > ul:first-of-type{
-	columns: 2;
-	text-align: center;
+@supports(columns: 2){
+	#appendix-1-2 > div:first-of-type > ul:first-of-type{
+		columns: 2;
+		text-align: center;
+	}
 }
 
 #appendix-1 li,
